@@ -1,2 +1,2 @@
 # TamilMixSentiment
-Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English T
+Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English Text
