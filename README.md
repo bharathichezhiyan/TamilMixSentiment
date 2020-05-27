@@ -4,3 +4,4 @@ Bharathi Raja Chakravarthi,Vigneshwaran Muralidaran,Ruba Priyadharshini, John P.
 accepted at 1st Joint SLTU (Spoken Language Technologies for Under-resourced languages) and CCURL (Collaboration and Computing for Under-Resourced Languages) Workshop @ LREC 2020
 
 Other details will be updated soon.
+Dataset can be downloaded by emailing author bharathiraja.akr@gmail.com
